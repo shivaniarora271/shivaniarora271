@@ -21,7 +21,7 @@ I enjoy building reusable, maintainable solutions and contributing to the open-s
 
 - Maintainer of the [Gentle User Reminder](https://www.drupal.org/project/gentle_user_reminder) contributed Drupal module.
 - Contributor to Drupal.org projects, with Drupal.org issue credit.
-- Earned issue credit for contributing to [Cookie Consent Notice by CookieYes](https://www.drupal.org/project/cookieyes).
+- [Earned issue credit for contributing to [Cookie Consent Notice by CookieYes](https://www.drupal.org/project/cookieyes).]  (https://www.drupal.org/project/cookie_consent_notice_by_cookieyes)
 
 ### Drupal.org Profiles
 
@@ -30,10 +30,14 @@ I enjoy building reusable, maintainable solutions and contributing to the open-s
 
 ## 🚀 Featured Projects
 
-- **[Gentle User Reminder](https://www.drupal.org/project/gentle_user_reminder)** — A contributed Drupal module that I maintain.
-- **[Price Difference Formatter](https://www.drupal.org/project/price_difference_formatter)** — A Drupal module for formatting price differences.
-- **Example Gift Box** — A Drupal Commerce project concept for building customizable gift boxes.
-- **Drupal Search Autocomplete** — A project focused on autocomplete functionality using Drupal Search API.
+## 🚀 Featured GitHub Projects
+
+- **[Example Gift Box](https://github.com/shivaniarora271/example-gift-box)** — A Drupal Commerce project for building customizable gift boxes.
+
+- **[Commerce Discount Formatter](https://github.com/shivaniarora271/commerce_discount_formatter)** — A custom Drupal Commerce module that displays original prices, discounted prices, savings amounts, and discount percentages.
+
+- **[Drupal Search Autocomplete](https://github.com/shivaniarora271/drupal-search-autocomplete)** — A Drupal search project focused on autocomplete functionality using Search API.
+
 
 *Explore my GitHub repositories for available source code, implementation details, and project updates.*
 
