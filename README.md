@@ -11,35 +11,34 @@ I enjoy building reusable, maintainable solutions and contributing to the open-s
 ## 💻 Technical Skills
 
 - **CMS & eCommerce:** Drupal 7, 8, 9, 10, 11; Drupal Commerce
-- **Backend:** PHP, MySQL, REST APIs
+- **Backend:** PHP, Python, MySQL, REST APIs
 - **Frontend:** Twig, JavaScript, jQuery
 - **Search:** Drupal Search API, Apache Solr, Elasticsearch
+- **AI Integration:** Drupal AI module, LLM integration, RAG chatbots, vector search
 - **Development Tools:** Composer, Drush, Git, DDEV
-- **Additional Interests:** AI integration, RAG chatbots, information retrieval, and intelligent recommendations
 
 ## 🌱 Open Source Contributions
 
 - Maintainer of the [Gentle User Reminder](https://www.drupal.org/project/gentle_user_reminder) contributed Drupal module.
 - Contributor to Drupal.org projects, with Drupal.org issue credit.
-- [Earned issue credit for contributing to [Cookie Consent Notice by CookieYes](https://www.drupal.org/project/cookieyes).]  (https://www.drupal.org/project/cookie_consent_notice_by_cookieyes)
+- Earned issue credit for contributing to [Cookie Consent Notice by CookieYes](https://www.drupal.org/project/cookieyes).
 
 ### Drupal.org Profiles
 
 - [arorashivani](https://www.drupal.org/u/arorashivani)
 - [shivani_arora](https://www.drupal.org/u/shivani_arora)
 
-## 🚀 Featured Projects
-
 ## 🚀 Featured GitHub Projects
 
-- **[Example Gift Box](https://github.com/shivaniarora271/example-gift-box)** — A Drupal Commerce project for building customizable gift boxes.
+- **[Drupal RAG Chatbot](https://github.com/shivaniarora271/drupal-rag-chatbot)**: A Drupal 10/11 module for a retrieval-augmented generation (RAG) chatbot that answers only from site content using the Drupal AI module and a vector index, and cites its sources.
 
-- **[Commerce Discount Formatter](https://github.com/shivaniarora271/commerce_discount_formatter)** — A custom Drupal Commerce module that displays original prices, discounted prices, savings amounts, and discount percentages.
+- **[Example Gift Box](https://github.com/shivaniarora271/example-gift-box)**: A Drupal Commerce project for building customizable gift boxes.
 
-- **[Drupal Search Autocomplete](https://github.com/shivaniarora271/drupal-search-autocomplete)** — A Drupal search project focused on autocomplete functionality using Search API.
+- **[Commerce Discount Formatter](https://github.com/shivaniarora271/commerce_discount_formatter)**: A custom Drupal Commerce module that displays original prices, discounted prices, savings amounts, and discount percentages.
 
+- **[Drupal Search Autocomplete](https://github.com/shivaniarora271/drupal-search-autocomplete)**: A Drupal search project focused on autocomplete functionality using Search API.
 
-*Explore my GitHub repositories for available source code, implementation details, and project updates.*
+*Explore my GitHub repositories for source code, implementation details, and project updates.*
 
 ## 🎓 Research Interests
 
@@ -47,8 +46,8 @@ I am interested in exploring the intersection of software engineering, informati
 
 - Retrieval-augmented generation and knowledge-based chatbots
 - Search relevance and intelligent information retrieval
-- AI-driven content classification and recommendation
-- Practical applications of AI in scalable software systems
+- AI and computer vision for digital health assessment on mobile devices
+- Reliable, well-calibrated machine-learning models for real-world use
 
 I am interested in research opportunities where my industry experience can complement deeper academic study and research.
 
